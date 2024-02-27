@@ -20,4 +20,19 @@ To implement PQC algorithms, we rely on external libraries sourced from the foll
 - [GiacomoPope/dilithium-py](https://github.com/GiacomoPope/dilithium-py)
 - [tprest/falcon.py](https://github.com/tprest/falcon.py)
 
-Feel free to explore the implementations and contribute to our research project!
+
+# Results
+
+## Key Generation Times (ms)
+
+| Security Level | Key Generation (ms) |
+|----------------|----------------------|
+| Kyber512       | 31.2                 |
+| Kyber768       | 78.1                 |
+| Kyber1024      | 93.72                |
+| Dilithium2     | 62.42                |
+| Dilithium3     | 93.73                |
+| Dilithium5     | 171.87               |
+| Falcon256      | 6606.39              |
+| Falcon512      | 10016.76             |
+| Falcon1024     | 53601.41             |
