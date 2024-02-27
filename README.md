@@ -1,6 +1,15 @@
-# Research Project: Post-Quantum Cryptography for Quantum Key Distribution
+# Research Project: A Comprehensive Experimental Study: Enhancing the Security of Classical Communication with Post-Quantum Authenticated-Encryption Schemes for the Quantum Key Distribution
+# Authors
 
-This repository hosts the code and materials for our research project, focusing on Post-Quantum Cryptography (PQC) for Quantum Key Distribution (QKD). 
+- Farshad Rahimi Ghashghaei
+- Yussuf Ahmed
+- Nebrase Elmrabit
+- Mehdi Yousefi
+
+## Affiliations
+
+- Farshad Rahimi Ghashghaei, Yussuf Ahmed, Mehdi Yousefi: School of Computing and Digital Technology, Birmingham City University, Birmingham, United Kingdom
+- Nebrase Elmrabit: Department of Cyber Security and Networks, Glasgow Caledonian University, Glasgow, United Kingdom
 
 ## Overview
 
