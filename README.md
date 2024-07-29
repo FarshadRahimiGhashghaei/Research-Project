@@ -107,7 +107,7 @@ These tables present the sizes (in bytes) of the ciphertexts and signatures for 
 
 - The choice of the best security level for cryptographic algorithms like CRYSTALS-Kyber, CRYSTALS-Dilithium, and Falcon depends on striking a balance between security requirements and resource constraints.
 - Higher security levels such as Kyber 1024, Dilithium 5, and Falcon 1024 offer stronger security assurances but come with larger signatures and slower cryptographic procedures.
-- For most practical purposes, options like Kyber 768, Dilithium 3, and Falcon 256 provide a well-balanced compromise between security and performance.
+- For most practical purposes, options like Kyber 512, Dilithium 3, and Falcon 256 provide a well-balanced compromise between security and performance.
 - While Falcon excels in signing and verification, its key generation performance may be suboptimal.
 - Ultimately, the best security level must be tailored to the specific security needs and performance limitations of the application at hand.
 
